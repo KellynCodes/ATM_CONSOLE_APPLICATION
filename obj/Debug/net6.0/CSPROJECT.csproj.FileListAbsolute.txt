@@ -1,0 +1,15 @@
+C:\Users\KELLYNCODES\Documents\CSPROJECT\bin\Debug\net6.0\CSPROJECT.exe
+C:\Users\KELLYNCODES\Documents\CSPROJECT\bin\Debug\net6.0\CSPROJECT.deps.json
+C:\Users\KELLYNCODES\Documents\CSPROJECT\bin\Debug\net6.0\CSPROJECT.runtimeconfig.json
+C:\Users\KELLYNCODES\Documents\CSPROJECT\bin\Debug\net6.0\CSPROJECT.dll
+C:\Users\KELLYNCODES\Documents\CSPROJECT\bin\Debug\net6.0\CSPROJECT.pdb
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\CSPROJECT.csproj.AssemblyReference.cache
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\CSPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\CSPROJECT.AssemblyInfoInputs.cache
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\CSPROJECT.AssemblyInfo.cs
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\CSPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\CSPROJECT.dll
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\refint\CSPROJECT.dll
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\CSPROJECT.pdb
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\CSPROJECT.genruntimeconfig.cache
+C:\Users\KELLYNCODES\Documents\CSPROJECT\obj\Debug\net6.0\ref\CSPROJECT.dll
